@@ -1,0 +1,4 @@
+.v1.0-trainval_meta.txt
+annotations.json
+occ_infos_temporal_train.pkl
+occ_infos_temporal_val.pkl
